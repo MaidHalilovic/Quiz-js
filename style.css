@@ -1,0 +1,48 @@
+.kviz {
+  position: relative;
+  left: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 360px;
+  height: 420px;
+  background-color: rgb(210, 209, 209);
+  border-radius: 10px;
+  gap: 10px;
+}
+
+.kviz h1 {
+  position: relative;
+}
+
+.kviz p {
+  position: relative;
+  bottom: 30px;
+  right: 50px;
+}
+
+.kviz button {
+  position: relative;
+  bottom: 40px;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(178, 175, 175);
+  width: 300px;
+  height: 50px;
+  border-radius: 5px;
+  align-items: center;
+}
+
+.btn {
+  position: relative;
+  bottom: 50px;
+  display: flex;
+  background-color: rgb(108, 164, 108);
+  border-radius: 5px;
+  align-items: center;
+  width: 100px;
+  height: 40px;
+  justify-content: center;
+  left: 430px;
+}
